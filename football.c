@@ -2,6 +2,8 @@
  * Name: Samyu Aitha
  * Lab: Lab 4: C Programming
  * Student ID: 3222133
+ * Input: NFL Score
+ * Output: All possible combinations of scoring play that can result from user input. 
  * Description: Determines all possible combinations of NFL scoring plays that can produce a user-entered score.
  */
 
