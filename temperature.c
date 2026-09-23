@@ -1,9 +1,10 @@
 /*
  * Name: Samyu Aitha
  * Lab: Lab 4 - C Programming
- * Description:
- * Converts temperatures between Celsius, Fahrenheit, and Kelvin,
- * then displays a temperature category and weather advisory.
+ * Student ID: 3222133
+ * Input: Temp value in either C, F, or K
+ * Output: Convertions of temp between the degrees
+ * Description: Converts temperatures between Celsius, Fahrenheit, and Kelvin, then displays a temperature category and weather advisory.
  */
 
 #include <stdio.h>
