@@ -1,9 +1,8 @@
 /*
  * Name: Samyu Aitha
- * Lab: Lab 4 - C Programming
- * Description:
- * Determines all possible combinations of NFL scoring plays
- * that can produce a user-entered score.
+ * Lab: Lab 4: C Programming
+ * Student ID: 3222133
+ * Description: Determines all possible combinations of NFL scoring plays that can produce a user-entered score.
  */
 
 #include <stdio.h>
@@ -19,7 +18,7 @@ int main(void)
 
         /*
          * Read an integer and make sure the user did not enter
-         * something like "abc" or "25abc".
+         * something like "abc" or "25abc"
          */
         if (scanf("%d", &score) != 1)
         {
@@ -34,7 +33,7 @@ int main(void)
         }
 
         /*
-         * Check for extra characters after the number.
+         * check for extra characters after the number
          */
         extra = getchar();
 
